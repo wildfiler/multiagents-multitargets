@@ -1,0 +1,6 @@
+devid=wildfiler
+devtitle=Ivan Arakcheiev
+gameid=multiagents-multitargets
+gametitle=Multiagent-multitargets pathfinding experiments
+version=0.1
+icon=metadata/icon.png
